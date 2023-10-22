@@ -18,7 +18,7 @@
         <li class="nav-item"><a class="nav-link" href="array.php">Arrays</a></li>
         <li class="nav-item"><a class="nav-link" href="forloop.php">For Loops</a></li>
         <li class="nav-item"><a class="nav-link" href="whiledowhileloop.php">Do While Loops Statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="ifstatement.php">If Statements</a></li>
+        <li class="nav-item"><a class="nav-link" href="Ifstatement.php">If Statements</a></li>
         <li class="nav-item"><a class="nav-link" href="switchstatement.php">Switch Statements</a></li>
         <li class="nav-item"><a class="nav-link" href="stringmanip.php">String Manipulations</a></li>
         <li class="nav-item"><a class="nav-link" href="dateandtime.php">Date and Time</a></li>
